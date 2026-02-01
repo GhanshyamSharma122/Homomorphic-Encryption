@@ -49,6 +49,6 @@ ops = EncryptedVectorOps(engine)
 result = ops.dot_product(encrypted_vec1, encrypted_vec2)
 ```
 
-## License
+## Author
 
 Ghanshyam Sharma
