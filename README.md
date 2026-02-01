@@ -1,6 +1,6 @@
 # Optimized Indexing and Search with Homomorphic Encryption
 
-Samsung PRISM Research Project - Privacy-preserving vector similarity search using Homomorphic Encryption.
+Privacy-preserving vector similarity search using Homomorphic Encryption.
 
 ## Overview
 
@@ -51,4 +51,4 @@ result = ops.dot_product(encrypted_vec1, encrypted_vec2)
 
 ## License
 
-Research project for Samsung PRISM.
+Ghanshyam Sharma
