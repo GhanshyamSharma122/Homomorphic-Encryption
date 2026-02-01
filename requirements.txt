@@ -1,0 +1,22 @@
+# Core dependencies
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Optional: FAISS for plaintext comparison
+faiss-cpu>=1.7.4
+
+# Visualization
+matplotlib>=3.7.0
+
+# Progress bars
+tqdm>=4.65.0
+
+# Testing
+pytest>=7.3.0
+
+# Development
+jupyter>=1.0.0
+
+# NOTE: TenSEAL requires Python 3.10 or earlier
+# For Python 3.14, use simulation mode (default)
+# To use real HE: conda create -n seal python=3.10 && pip install tenseal

@@ -1,0 +1,95 @@
+{
+  "timestamp": "2026-02-01T10:57:07.109061",
+  "experiments": [
+    {
+      "dimension": 16,
+      "database_size": 50,
+      "k": 5,
+      "naive_time_mean": 0.012788963317871094,
+      "naive_time_std": 0.0037417778937234173,
+      "optimized_time_mean": 0.0059334754943847655,
+      "optimized_time_std": 0.0009629143290893273,
+      "speedup": 2.1553916132246815
+    },
+    {
+      "dimension": 16,
+      "database_size": 100,
+      "k": 5,
+      "naive_time_mean": 0.024495029449462892,
+      "naive_time_std": 0.0015644380459591,
+      "optimized_time_mean": 0.012171649932861328,
+      "optimized_time_std": 0.00916305660005426,
+      "speedup": 2.0124658188969593
+    },
+    {
+      "dimension": 16,
+      "database_size": 200,
+      "k": 5,
+      "naive_time_mean": 0.06764888763427734,
+      "naive_time_std": 0.03420350550939626,
+      "optimized_time_mean": 0.019497156143188477,
+      "optimized_time_std": 0.00737908094182801,
+      "speedup": 3.4696797388018634
+    },
+    {
+      "dimension": 32,
+      "database_size": 50,
+      "k": 5,
+      "naive_time_mean": 0.013836240768432618,
+      "naive_time_std": 0.005672755379738033,
+      "optimized_time_mean": 0.0077060222625732425,
+      "optimized_time_std": 0.004177868611673839,
+      "speedup": 1.7955100954785375
+    },
+    {
+      "dimension": 32,
+      "database_size": 100,
+      "k": 5,
+      "naive_time_mean": 0.024731922149658202,
+      "naive_time_std": 0.0007299939658877162,
+      "optimized_time_mean": 0.012939167022705079,
+      "optimized_time_std": 0.009063042082100493,
+      "speedup": 1.9113998688060614
+    },
+    {
+      "dimension": 32,
+      "database_size": 200,
+      "k": 5,
+      "naive_time_mean": 0.057938671112060545,
+      "naive_time_std": 0.0016749605259229999,
+      "optimized_time_mean": 0.0174893856048584,
+      "optimized_time_std": 0.008916357326651856,
+      "speedup": 3.312790535990337
+    },
+    {
+      "dimension": 64,
+      "database_size": 50,
+      "k": 5,
+      "naive_time_mean": 0.012011384963989258,
+      "naive_time_std": 0.00044165039081445645,
+      "optimized_time_mean": 0.009573268890380859,
+      "optimized_time_std": 0.005849798499022941,
+      "speedup": 1.2546795772192505
+    },
+    {
+      "dimension": 64,
+      "database_size": 100,
+      "k": 5,
+      "naive_time_mean": 0.03341875076293945,
+      "naive_time_std": 0.004042695947123358,
+      "optimized_time_mean": 0.014685916900634765,
+      "optimized_time_std": 0.010406153815480152,
+      "speedup": 2.275564473709844
+    },
+    {
+      "dimension": 64,
+      "database_size": 200,
+      "k": 5,
+      "naive_time_mean": 0.08244953155517579,
+      "naive_time_std": 0.010756911050977949,
+      "optimized_time_mean": 0.025850248336791993,
+      "optimized_time_std": 0.014551987288536256,
+      "speedup": 3.189506362994103
+    }
+  ]
+}
